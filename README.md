@@ -13,3 +13,6 @@ To better test kexten from one release date to another (REL-xx-yyyy-mm-dd), ther
 With the version of the existing commit this is given.
 
 ## Discussion
+
+## Credits
+* The OSx86-Gang beim Input & fleißigen Testen
