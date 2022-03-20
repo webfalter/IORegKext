@@ -5,7 +5,7 @@
 [![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg)](https://www.paypal.com/paypalme/webfalter)
 -----
 
-### Tool
+### Tool reads kext commit from the ioReg
 
 ![](./img/info.png)
 
