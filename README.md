@@ -1,1 +1,12 @@
 # IORegKext
+
+[![GitHub release](https://img.shields.io/github/release/webfalter/IORegKext?include_prereleases=&sort=semver&color=blue)](https://github.com/webfalter/IORegKext/releases/)
+[![download-badge](https://img.shields.io/github/downloads/webfalter/IORegKext/total.svg?style=flat-square "Download status")](https://github.com/webfalter/IORegKext/releases/latest "Download status")
+[![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg)](https://www.paypal.com/paypalme/webfalter)
+-----
+
+### Tool
+
+![](./img/info.png)
+
+## Discussion
